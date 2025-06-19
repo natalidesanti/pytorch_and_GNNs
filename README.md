@@ -1,8 +1,10 @@
 # Pytorch and GNNs tutorial
 
 Hello there! In this repo you will find a tutorial on how to use `Pytorch` and
-`Graph Neural Networks (GNN)` for regression problems. This tutorial will be given by
-me in the [Artificial Intelligence in Astronomy (AIA) Seminars](https://aiaseminars.com/).
+`Graph Neural Networks (GNN)` for regression problems. This tutorial was given by
+in the [Artificial Intelligence in Astronomy (AIA) Seminars](https://aiaseminars.com/).
+
+You can also find some slides related to my presentation at AstroGainz, with more Cosmology and Astrophysics content.
 
 If you have any questions, complains, suggestions or you just wanna chat do not hesitate to
 contact me:
